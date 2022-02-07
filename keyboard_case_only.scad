@@ -47,6 +47,7 @@ holeSize = 2.3;
 //// No Need to Touch This Stuff ////
 
 
+index = [0 : keys-1];
 
 keyboard_case(keyPositionsX,keyPositionsY,index,keySizes,plateThickness,xSpacing,ySpacing,xCut,yCut,index,interiorHeight,baseThickness,bezelWidth,usbIndex,holeIndices,holeSize);
 
