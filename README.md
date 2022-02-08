@@ -10,7 +10,7 @@ Set `bezelWidth` to determine the size of your bezels in mm.
 
 Set `baseThickness` to determine the thickness of the base of the case in mm.  
 
-Use https://40percent.shinyapps.io/caseGenSyntax/ to get `keyPositionsX`, `keyPositionsY`, `keySizes`, and `keys` for your layout.  
+Use [The Layout Generator](https://40percent.shinyapps.io/caseGenSyntax/), which uses a lightweight keybaord layout syntax, to get `keyPositionsX`, `keyPositionsY`, `keySizes`, and `keys` for your layout.  
 
 Set `usbIndex` to determine under which switch your pro micro sits. *The index starts with 0*. The usb hole will always be placed at the "top" of the case.  
 
